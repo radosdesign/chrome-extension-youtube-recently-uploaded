@@ -3,3 +3,7 @@ node_modules/
 
 # Intellij Idea
 .idea/
+
+#
+build/
+dist/

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Show recently uploaded videos"
+  },
+  "appShortName": {
+    "message": "Show recently uploaded videos"
+  },
+  "appDesc": {
+    "message": "Show recently uploaded videos"
+  },
+  "actionDefaultTitle": {
+    "message": "Show recently uploaded videos"
+  }
+}
