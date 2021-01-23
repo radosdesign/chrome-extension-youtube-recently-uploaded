@@ -1,0 +1,12 @@
+{
+  "name": "chrome-extension-youtube-recently-uploaded",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "~1.3.0",
+    "grunt-contrib-compress": "~2.0.0",
+    "grunt-contrib-copy": "~1.0.0",
+    "grunt-contrib-uglify": "~5.0.0",
+    "grunt-replace": "^1.0.1",
+    "node-fetch": "^2.6.1"
+  }
+}
