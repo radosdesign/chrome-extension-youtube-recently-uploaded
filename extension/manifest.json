@@ -1,7 +1,7 @@
 {
   "name": "__MSG_appName__",
   "short_name": "__MSG_appShortName__",
-  "default_locale": "sk",
+  "default_locale": "en",
   "version": "@@REPLACE_VERSION",
   "description": "__MSG_appDesc__",
   "background": {
@@ -15,10 +15,7 @@
     "default_title" : "__MSG_actionDefaultTitle__"
   },
   "permissions" : [
-    "http://*/", "https://*/", "tabs"
-  ],
-  "web_accessible_resources": [
-    "assets/*.png"
+    "https://*.youtube.com/"
   ],
   "icons" : {
     "48" : "icon48.png",
